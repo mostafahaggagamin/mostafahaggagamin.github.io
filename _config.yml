@@ -6,7 +6,7 @@ baseurl: ''
 profilepic: '/images/mostafa.jpeg'
 bkimage: '/images/cover.jpg'
 # google_analytics: UA-XXXXXX-X
-font_awesome: '/js/all.min.js'
+font_awesome: '/js/all.js'
 
 author:
   name: 'Mostafa Haggag'
